@@ -1,0 +1,21 @@
+which 5 area names have highest crime? answered
+DIstribution of high crime and low crime areas.
+what time crimes occur at? answered
+Do weekends and weekdays crime differs? answered
+what day of the week crimes occur at? answered
+which month higehst crime? answered
+What is the crime trend year over year?
+
+
+
+insight
+*77th street, southwest, n hollywood, pacific, southeeast.
+* 9% have crimes more than 125000 in the years for whoch the data is provided
+* most crimes occur after 12pm . Higesh is between 12 -1. next highest from 17-18
+  early morning hours from 3am to 8 am has the lowest crime rate
+* Mostly even throughout the week. Although Friday has the highest crime rate
+* No crime trends are same on the weekdays and weekends
+* In February there us the least crime rate. But January has one of the hoghest crime rate
+  It is pretty evenly distributed. But JUly and august have the highest crime rate.
+* crime rate have seem to risen high from 2018, before that there has been a mild increae
+  crime rate over the years

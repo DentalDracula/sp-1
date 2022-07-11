@@ -1,0 +1,73 @@
+<html>
+	<head>
+		<title>BE SAFE</title>
+	</head>
+<body>
+	<h1>LA Safety from Crime Prediction Form</h1>
+
+<div>
+<form action="/predict" method="POST">
+    <br>
+    <br>
+	<label for="time">Time</label>
+	<input type="text" id="time" name="time">
+	<br>
+    <br>
+	<label for="area">Area</label>
+	<select id="area" name="area">
+	<option value="1">Central</option>
+	<option value="2">Rampart</option>
+	<option value="3">Southwest</option>
+	<option value="4">Hollenbeck</option>
+	<option value="5">Harbor</option>
+	<option value="6">Hollywood</option>
+	<option value="7">Wilshire</option>
+	<option value="8">West LA</option>
+	<option value="9">Van Nuys</option>
+	<option value="10">West Valley</option>
+	<option value="11">Northeast</option>
+	<option value="12">77th Street</option>
+	<option value="13">Newton</option>
+	<option value="14">Pacific</option>
+	<option value="15">N Hollywood</option>
+    <option value="16">Foothill</option>
+    <option value="17">Devonshire</option>
+    <option value="18">Southeast</option>
+    <option value="19">Mission</option>
+    <option value="20">Olympic</option>
+    <option value="21">Topanga</option>
+	</select>
+	<br>
+    <br>
+	<label for="age">Age</label>
+	<input type="text" id="age" name="age">
+	<br>
+    <br>
+	<label for="gender">Gender</label>
+	<select id="gender" name="gender">
+	<option value="0">Female</option>
+	<option value="1">Male</option>
+	</select>
+	<br>
+    <br>
+	<label for="eth">Ethinicity</label>
+	<select id="eth" name="eth">
+	<option value="0">Other</option>
+	<option value="1">Hispanic</option>
+	<option value="2">White</option>
+	</select>
+	<br>
+    <br>
+	<label for="lat">Latitude </label>
+	<input type="text" id="lat" name="lat">btw:[20-50]
+	<br>
+    <br>
+	<label for="lon">Longitude</label>
+	<input type="text" id="lon" name="lon">btw:[100-140]
+	<br>
+    <br>
+	<input type="submit" value="Submit">
+</form>
+</div>
+</body>
+</html>
